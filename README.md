@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tracoylir101;
-- 👀 I’m interested in C++ && C#;
-- 🌱 I’m currently not learning anything;
-- 💞️ I'm currently not interested in collaborating;
+- 👀 I’m interested in Python(at the moment);
+- 🌱 I’m learning stuff;
+- 💞️ I'm not interested in collaborating;
 - 📫 How to reach me ... You don't;
 
 <!---
